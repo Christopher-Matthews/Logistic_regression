@@ -24,10 +24,10 @@ results.
 ### Results
 Achieved similar results to Sklearn's implementation of
 Logistic Regression for classification through scratch code.
-We could take this a step further and import the file without the csv import and hand code functions for the 
+We could take this a step further and import the file without the csv import and hand code functions for the
 exponential function and natural log function so we need 0 imports to run this.
 
-###Acknowledgments
+### Acknowledgments
 Titanic data can be found at: https://www.kaggle.com/c/titanic/overview
 Implementation is used from Andrew Ng's Coursera course in
 deep learning.
